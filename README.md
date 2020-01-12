@@ -5,3 +5,5 @@ History tables can occupy gigabytes and in order to do just configuration backup
 
 This backup script combines deleting history data (you can turn off housekeeper for history).
 Also, history tables are not backed up.
+
+Not tested on TimecaleDB
